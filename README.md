@@ -1,4 +1,4 @@
-# Gobnikiki — E-commerce Next.js Template
+# Sairex Shop — E-commerce Next.js Template
 
 Современный минималистичный шаблон для e‑commerce проекта на базе Next.js (App Router), Tailwind CSS и Framer Motion. Этот проект содержит готовую страницу входа (Login) в стиле fashion-бренда с адаптивным split-layout и аккуратными анимациями.
 
